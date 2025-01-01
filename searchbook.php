@@ -9,7 +9,7 @@
 <?php
 //get the db connection file
 require_once 'conf/dbconf.php';
-require_once 'myFunc/func.php';
+require_once 'myfunc/func.php';
 //PrintTable("books",$connect);
 //echo $_SERVER['PHP_SELF']; //get the file name
 ?>
